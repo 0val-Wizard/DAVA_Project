@@ -11,10 +11,10 @@ The file is your EDA (Exploratory Data Analysis) Assignment for the Data Visuali
 ### Final Takeaway:
 All three tested beliefs were confirmed by the data:
 
-  **Larger animals → higher emissions per kg.**
+  - **Larger animals → higher emissions per kg.**
 
-  **Higher land use → higher emissions.**
+  - **Higher land use → higher emissions.**
 
-  **Plant-based foods → lower emissions per 1000 kcal than animal-based foods.**
+  - **Plant-based foods → lower emissions per 1000 kcal than animal-based foods.**
 
 The analysis highlights the environmental impact of animal-based diets, especially from larger animals and high land-use farming practices.
