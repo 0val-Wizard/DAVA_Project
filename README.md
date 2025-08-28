@@ -2,7 +2,7 @@
 Year 1 Module
 
 Note:
-You can also download the .docx version of my Exploratory Data Analysis for better visualization.
+You can also download the .docx version of my Exploratory Data Analysis for better visualization. [Press 'Just Raw' to download]
 
 
 ### Document Overview:
