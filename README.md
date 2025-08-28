@@ -10,6 +10,7 @@ The file is your EDA (Exploratory Data Analysis) Assignment for the Data Visuali
 
 ### Final Takeaway:
 All three tested beliefs were confirmed by the data:
+
   **Larger animals → higher emissions per kg.**
 
   **Higher land use → higher emissions.**
